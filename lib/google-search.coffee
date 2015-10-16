@@ -1,5 +1,6 @@
 GoogleSearchView = require './google-search-view'
 GoogleSearchClient = require './google-search-client'
+GoogleSearchResult=require './google-result-view'
 {CompositeDisposable} = require 'atom'
 request = require 'request'
 
@@ -47,11 +48,14 @@ module.exports = GoogleSearch =
     if response==null
       console.log("Error from search")
     else
-      newWindow=atom.workspace.open()
-      newWindow.then((editor)->
-          editor.insertText("Responses from Google search :\n")
-          for x in response.items
-            editor.insertText("#{x.title}\n")
-            editor.insertText("#{x.link}\n")
-            editor.insertText("#{x.snippet}\n"))
-            )
+      #Creating a view item to display the results
+      @result=new GoogleSearchResult(response)
+      @modalPanel = atom.workspace.addModalPanel(item: @result.getElement(), visible: true)
+      # newWindow=atom.workspace.open()
+      # newWindow.then((editor)->
+      #     editor.insertText("Responses from Google search :\n")
+      #     for x in response.items
+      #       editor.insertText("#{x.title}\n")
+      #       editor.insertText("#{x.link}\n")
+      #       editor.insertText("#{x.snippet}\n"))
+      #       )
