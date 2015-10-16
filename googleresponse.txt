@@ -1,0 +1,623 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - i dont know",
+    "totalResults": "457000000",
+    "searchTerms": "i dont know",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "012493601492997370571:g3rffka0quq"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - i dont know",
+    "totalResults": "457000000",
+    "searchTerms": "i dont know",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "012493601492997370571:g3rffka0quq"
+   }
+  ]
+ },
+ "context": {
+  "title": "MySearchNaveen"
+ },
+ "searchInformation": {
+  "searchTime": 0.456382,
+  "formattedSearchTime": "0.46",
+  "totalResults": "457000000",
+  "formattedTotalResults": "457,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "I Don't Know - YouTube",
+   "htmlTitle": "\u003cb\u003eI Don&#39;t Know\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=NPum07dH_mw",
+   "displayLink": "www.youtube.com",
+   "snippet": "Feb 6, 2015 ... A secret agent has to infiltrate a poker game. There's just one problem... Funded \nby Comedy Central UK (http://comedycentral.co.uk) Written ...",
+   "htmlSnippet": "Feb 6, 2015 \u003cb\u003e...\u003c/b\u003e A secret agent has to infiltrate a poker game. There&#39;s just one problem... Funded \u003cbr\u003e\nby Comedy Central UK (http://comedycentral.co.uk) Written&nbsp;...",
+   "cacheId": "SrjUG0MgkI8J",
+   "formattedUrl": "www.youtube.com/watch?v=NPum07dH_mw",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=NPum07dH_mw",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/NPum07dH_mw/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=NPum07dH_mw",
+      "name": "I Don't Know",
+      "description": "A secret agent has to infiltrate a poker game. There's just one problem... Funded by Comedy Central UK (http://comedycentral.co.uk) Written and Directed by T...",
+      "paid": "False",
+      "channelid": "UCOYWgypDktXdb-HfZnSMK6A",
+      "videoid": "NPum07dH_mw",
+      "duration": "PT2M25S",
+      "unlisted": "False",
+      "thumbnailurl": "http://i.ytimg.com/vi/NPum07dH_mw/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/NPum07dH_mw",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "2513818",
+      "datepublished": "2015-02-06",
+      "genre": "Comedy"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/TomSka"
+     },
+     {
+      "url": "https://plus.google.com/113567071689343112536"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EO49QsmmEPjP8sKXXavN2yOEZRNZxEL0dDdCljWd8W__grqsfPLvWefq"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "I Don't Know",
+      "og:site_name": "YouTube",
+      "og:url": "http://www.youtube.com/watch?v=NPum07dH_mw",
+      "og:title": "I Don't Know",
+      "og:image": "http://i.ytimg.com/vi/NPum07dH_mw/maxresdefault.jpg",
+      "og:description": "A secret agent has to infiltrate a poker game. There's just one problem... Funded by Comedy Central UK (http://comedycentral.co.uk) Written and Directed by T...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=NPum07dH_mw&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=NPum07dH_mw&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "http://www.youtube.com/watch?v=NPum07dH_mw&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/NPum07dH_mw",
+      "og:video:secure_url": "https://www.youtube.com/embed/NPum07dH_mw",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "tomska",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "http://www.youtube.com/watch?v=NPum07dH_mw",
+      "twitter:title": "I Don't Know",
+      "twitter:description": "A secret agent has to infiltrate a poker game. There's just one problem... Funded by Comedy Central UK (http://comedycentral.co.uk) Written and Directed by T...",
+      "twitter:image": "http://i.ytimg.com/vi/NPum07dH_mw/maxresdefault.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=NPum07dH_mw&feature=applinks",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=NPum07dH_mw&feature=applinks",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i.ytimg.com/vi/NPum07dH_mw/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What to Say Instead of \"I Don't Know\" - The Muse",
+   "htmlTitle": "What to Say Instead of &quot;\u003cb\u003eI Don&#39;t Know\u003c/b\u003e&quot; - The Muse",
+   "link": "https://www.themuse.com/advice/3-things-good-managers-say-instead-of-i-dont-know",
+   "displayLink": "www.themuse.com",
+   "snippet": "Read our career guidance article, What to Say Instead of \"I Don't Know\" - The \nMuse: When you have the \"boss\" title but not the answ...",
+   "htmlSnippet": "Read our career guidance article, What to Say Instead of &quot;\u003cb\u003eI Don&#39;t Know\u003c/b\u003e&quot; - The \u003cbr\u003e\nMuse: When you have the &quot;boss&quot; title but not the answ...",
+   "cacheId": "IBcL8fKRwmgJ",
+   "formattedUrl": "https://www.themuse.com/.../3-things-good-managers-say-instead-of-i-dont- know",
+   "htmlFormattedUrl": "https://www.themuse.com/.../3-things-good-managers-say-instead-of-i-\u003cb\u003edont\u003c/b\u003e- \u003cb\u003eknow\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://tm-prod.global.ssl.fastly.net/uploaded/attachments/16392.jpg?v=bc02255cb6848ea795990332531fd399"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "321",
+      "height": "157",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFve-enEooTjOnVCJRebSz24T4PbcVUxgPH2MOaBglaPtxoejgD7jHl52"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "fragment": "!",
+      "p:domain_verify": "09380361cb040eec0860a103a9c11da2",
+      "og:description": "What to Say Instead of \"I Don't Know\" - The Muse: When you have the \"boss\" title but not the answ...",
+      "og:title": "3 Things Good Managers Say Instead of \"I Don't Know\"",
+      "og:image": "https://tm-prod.global.ssl.fastly.net/uploaded/attachments/16392.jpg?v=bc02255cb6848ea795990332531fd399",
+      "og:image:secure_url": "https://tm-prod.global.ssl.fastly.net/uploaded/attachments/16392.jpg?v=bc02255cb6848ea795990332531fd399",
+      "og:image:type": "image/jpeg",
+      "og:image:width": "750",
+      "og:image:height": "367",
+      "og:type": "article",
+      "og:url": "https://www.themuse.com/advice/3-things-good-managers-say-instead-of-i-dont-know",
+      "sailthru:date": "Thu, 05 Feb 2015 16:17:46 -0000",
+      "sailthru:title": "3 Things Good Managers Say Instead of \"I Don't Know\"",
+      "sailthru:tags": "Management, Communication, New Managers, Management Style, Syndication"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Six Ways To Confidently Say \"I Don't Know\" - Forbes",
+   "htmlTitle": "Six Ways To Confidently Say &quot;\u003cb\u003eI Don&#39;t Know\u003c/b\u003e&quot; - Forbes",
+   "link": "http://www.forbes.com/sites/work-in-progress/2015/05/04/six-ways-to-confidently-say-i-dont-know/",
+   "displayLink": "www.forbes.com",
+   "snippet": "May 4, 2015 ... The hardest three words to say aren't I love you – they're I don't know. That's the \nopinion of Stephen J. Dubner and Steven D. Levitt, authors of ...",
+   "htmlSnippet": "May 4, 2015 \u003cb\u003e...\u003c/b\u003e The hardest three words to say aren&#39;t I love you – they&#39;re \u003cb\u003eI don&#39;t know\u003c/b\u003e. That&#39;s the \u003cbr\u003e\nopinion of Stephen J. Dubner and Steven D. Levitt, authors of&nbsp;...",
+   "cacheId": "CnX8pnQyWHcJ",
+   "formattedUrl": "www.forbes.com/sites/.../six-ways-to-confidently-say-i-dont-know/",
+   "htmlFormattedUrl": "www.forbes.com/sites/.../six-ways-to-confidently-say-i-\u003cb\u003edont\u003c/b\u003e-\u003cb\u003eknow\u003c/b\u003e/",
+   "pagemap": {
+    "article": [
+     {
+      "articlesection": "ForbesWoman",
+      "datepublished": "2015-05-04T09:31:00-04:00",
+      "headline": "Six Ways To Confidently Say \"I Don't Know\"",
+      "author": "Kristi Hedges",
+      "articlebody": "The hardest three words to say aren’t I love you – they’re I don’t know. That’s the opinion of Stephen J. Dubner and Steven D. Levitt, authors of the behavioral economics bestseller..."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Kristi Hedges",
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+      "apple-itunes-app": "app-id=588647136",
+      "sailthru.author": "Kristi Hedges",
+      "sailthru.tags": "Leadership,ForbesWoman",
+      "sailthru.content_type": "blog",
+      "article:author": "http://www.forbes.com/sites/work-in-progress",
+      "sailthru.author_thumb": "http://blogs-images.forbes.com/assets/images/avatars/blog-27_40.jpg",
+      "sailthru.author_profile_url": "http://www.forbes.com/sites/work-in-progress",
+      "sailthru.author_type": "Contributor Group",
+      "og:title": "Six Ways To Confidently Say \"I Don't Know\" - Forbes",
+      "og:site_name": "Forbes",
+      "og:type": "article",
+      "og:url": "http://www.forbes.com/sites/work-in-progress/2015/05/04/six-ways-to-confidently-say-i-dont-know/",
+      "og:description": "It's hard to be put on the spot at work and not have an answer. If it's a superior asking you, it can be career jeopardizing. Here's how to confidently say \"I don't know\" and maintain credibility.",
+      "fb:app_id": "123694841080850",
+      "twitter:card": "summary",
+      "twitter:site": "@forbes",
+      "twitter:title": "Six Ways To Confidently Say \"I Don't Know\" - Forbes",
+      "twitter:description": "It's hard to be put on the spot at work and not have an answer. If it's a superior asking you, it can be career jeopardizing. Here's how to confidently say \"I don't know\" and maintain credibility."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I Don't Know - Med School Parody of \"Let It Go\" from Frozen ...",
+   "htmlTitle": "\u003cb\u003eI Don&#39;t Know\u003c/b\u003e - Med School Parody of &quot;Let It Go&quot; from Frozen \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.youtube.com/watch?v=EtAG3e3JLNI",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 29, 2014 ... Parody of \"Let It Go\" from Disney's Frozen by the University of Chicago Pritzker \nSchool of Medicine Class of 2016. Don't forget to set to 1080p!",
+   "htmlSnippet": "May 29, 2014 \u003cb\u003e...\u003c/b\u003e Parody of &quot;Let It Go&quot; from Disney&#39;s Frozen by the University of Chicago Pritzker \u003cbr\u003e\nSchool of Medicine Class of 2016. \u003cb\u003eDon&#39;t\u003c/b\u003e forget to set to 1080p!",
+   "cacheId": "OFF766qcP0MJ",
+   "formattedUrl": "www.youtube.com/watch?v=EtAG3e3JLNI",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=EtAG3e3JLNI",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/EtAG3e3JLNI/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=EtAG3e3JLNI",
+      "name": "I Don't Know - Med School Parody of \"Let It Go\" from Frozen (University of Chicago Pritzker SOM)",
+      "description": "Parody of \"Let It Go\" from Disney's Frozen by the University of Chicago Pritzker School of Medicine Class of 2016. Don't forget to set to 1080p! Lyrics and V...",
+      "paid": "False",
+      "channelid": "UCk8xAnz0nHg76xzq1ejcEXQ",
+      "videoid": "EtAG3e3JLNI",
+      "duration": "PT3M46S",
+      "unlisted": "False",
+      "thumbnailurl": "http://i.ytimg.com/vi/EtAG3e3JLNI/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/EtAG3e3JLNI",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "2176403",
+      "datepublished": "2014-05-29",
+      "genre": "Entertainment"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/bluebean10"
+     },
+     {
+      "url": "https://plus.google.com/101715056468270880619"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0-0pMONwB3s9iDWqTlMRPZk65kV46pExcSL_42kxGFp__8rtD4RnVUJmj"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "I Don't Know - Med School Parody of \"Let It Go\" from Frozen (University of Chicago Pritzker SOM)",
+      "og:site_name": "YouTube",
+      "og:url": "http://www.youtube.com/watch?v=EtAG3e3JLNI",
+      "og:title": "I Don't Know - Med School Parody of \"Let It Go\" from Frozen (University of Chicago Pritzker SOM)",
+      "og:image": "http://i.ytimg.com/vi/EtAG3e3JLNI/maxresdefault.jpg",
+      "og:description": "Parody of \"Let It Go\" from Disney's Frozen by the University of Chicago Pritzker School of Medicine Class of 2016. Don't forget to set to 1080p! Lyrics and V...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=EtAG3e3JLNI&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=EtAG3e3JLNI&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "http://www.youtube.com/watch?v=EtAG3e3JLNI&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/EtAG3e3JLNI",
+      "og:video:secure_url": "https://www.youtube.com/embed/EtAG3e3JLNI",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "Pritzker School Of Medicine (Organization)",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "http://www.youtube.com/watch?v=EtAG3e3JLNI",
+      "twitter:title": "I Don't Know - Med School Parody of \"Let It Go\" from Frozen (University of Chicago Pritzker SOM)",
+      "twitter:description": "Parody of \"Let It Go\" from Disney's Frozen by the University of Chicago Pritzker School of Medicine Class of 2016. Don't forget to set to 1080p! Lyrics and V...",
+      "twitter:image": "http://i.ytimg.com/vi/EtAG3e3JLNI/maxresdefault.jpg",
+      "twitter:app:name:iphone": "YouTube"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i.ytimg.com/vi/EtAG3e3JLNI/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Five Alternatives To Saying \"I Don't Know\" - Forbes",
+   "htmlTitle": "Five Alternatives To Saying &quot;\u003cb\u003eI Don&#39;t Know\u003c/b\u003e&quot; - Forbes",
+   "link": "http://www.forbes.com/sites/work-in-progress/2014/08/08/five-alternatives-to-saying-i-dont-know/",
+   "displayLink": "www.forbes.com",
+   "snippet": "Aug 8, 2014 ... Nothing can fluster even the most unflappable professional like being asked a \nquestion to which they don't know the answer. Appearing ...",
+   "htmlSnippet": "Aug 8, 2014 \u003cb\u003e...\u003c/b\u003e Nothing can fluster even the most unflappable professional like being asked a \u003cbr\u003e\nquestion to which they \u003cb\u003edon&#39;t know\u003c/b\u003e the answer. Appearing&nbsp;...",
+   "cacheId": "imwK7OsNGtsJ",
+   "formattedUrl": "www.forbes.com/sites/.../five-alternatives-to-saying-i-dont-know/",
+   "htmlFormattedUrl": "www.forbes.com/sites/.../five-alternatives-to-saying-i-\u003cb\u003edont\u003c/b\u003e-\u003cb\u003eknow\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blogs-images.forbes.com/work-in-progress/files/2014/08/670px-microphone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSINPWg8XcOtBblpn491AEWJFv5xpBLYTzpfdKX3W3uIVHqrKwaOZHArQ"
+     }
+    ],
+    "article": [
+     {
+      "articlesection": "ForbesWoman",
+      "datepublished": "2014-08-08T15:21:00-04:00",
+      "headline": "Five Alternatives To Saying \"I Don't Know\"",
+      "author": "Selena Rezvani",
+      "articlebody": "Nothing can fluster even the most unflappable professional like being asked a question to which they don’t know the answer. Appearing incompetent or uninformed is one thing, but what makes..."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Selena Rezvani",
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+      "apple-itunes-app": "app-id=588647136",
+      "sailthru.image.full": "http://blogs-images.forbes.com/work-in-progress/files/2014/08/670px-microphone.jpg",
+      "sailthru.author": "Selena Rezvani",
+      "sailthru.tags": "Leadership,ForbesWoman",
+      "sailthru.content_type": "blog",
+      "article:author": "http://www.forbes.com/sites/work-in-progress",
+      "sailthru.author_thumb": "http://blogs-images.forbes.com/assets/images/avatars/blog-27_40.jpg",
+      "sailthru.author_profile_url": "http://www.forbes.com/sites/work-in-progress",
+      "sailthru.author_type": "Contributor Group",
+      "og:title": "Five Alternatives To Saying \"I Don't Know\" - Forbes",
+      "og:site_name": "Forbes",
+      "og:type": "article",
+      "og:url": "http://www.forbes.com/sites/work-in-progress/2014/08/08/five-alternatives-to-saying-i-dont-know/",
+      "og:image": "http://blogs-images.forbes.com/work-in-progress/files/2014/08/670px-microphone.jpg",
+      "og:description": "Nothing can fluster even the most unflappable professional like being asked a question to which they don’t know the answer. Appearing incompetent or uninformed is one thing, but what makes this scenario even worse is when you’re asked the ‘impossible question’ in a group setting. Maybe it’s a group you know well—or [...]",
+      "fb:app_id": "123694841080850",
+      "twitter:card": "summary",
+      "twitter:site": "@forbes",
+      "twitter:title": "Five Alternatives To Saying \"I Don't Know\" - Forbes",
+      "twitter:description": "Nothing can fluster even the most unflappable professional like being asked a question to which they don’t know the answer. Appearing incompetent or uninformed is one thing, but what makes this scenario even worse is when you’re asked the ‘impossible question’ in a group setting. Maybe it’s a group you know well—or [...]",
+      "twitter:image:src": "http://blogs-images.forbes.com/work-in-progress/files/2014/08/670px-microphone.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I Don't Know by NickHakim",
+   "htmlTitle": "\u003cb\u003eI Don&#39;t Know\u003c/b\u003e by NickHakim",
+   "link": "https://soundcloud.com/enhakim/i-dont-know",
+   "displayLink": "soundcloud.com",
+   "snippet": "Aug 4, 2014 ... Stream I Don't Know by NickHakim from desktop or your mobile device.",
+   "htmlSnippet": "Aug 4, 2014 \u003cb\u003e...\u003c/b\u003e Stream \u003cb\u003eI Don&#39;t Know\u003c/b\u003e by NickHakim from desktop or your mobile device.",
+   "cacheId": "NvC7jzQOJJkJ",
+   "formattedUrl": "https://soundcloud.com/enhakim/i-dont-know",
+   "htmlFormattedUrl": "https://soundcloud.com/enhakim/i-\u003cb\u003edont\u003c/b\u003e-\u003cb\u003eknow\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i1.sndcdn.com/artworks-000087117904-k9j0ht-t500x500.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIO8cryEVKrWlT_T6EBlnoCdm5cqKWkSfbCKKZdUUs_1wVu-r0Ts8FZdLG"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin",
+      "viewport": "width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no",
+      "fb:app_id": "19507961798",
+      "og:site_name": "SoundCloud",
+      "twitter:site": "SoundCloud",
+      "twitter:app:name:iphone": "SoundCloud",
+      "twitter:app:id:iphone": "336353151",
+      "twitter:app:name:ipad": "SoundCloud",
+      "twitter:app:id:ipad": "336353151",
+      "twitter:app:name:googleplay": "SoundCloud",
+      "twitter:app:id:googleplay": "com.soundcloud.android",
+      "twitter:title": "I Don't Know",
+      "twitter:description": "Where Will We Go Pt. 2",
+      "twitter:player": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F161674929&auto_play=false&show_artwork=true&visual=true&origin=twitter",
+      "twitter:player:height": "400",
+      "twitter:player:width": "435",
+      "twitter:image:src": "https://i1.sndcdn.com/artworks-000087117904-k9j0ht-t500x500.jpg",
+      "twitter:card": "audio",
+      "twitter:audio:partner": "SoundCloud",
+      "twitter:audio:artist_name": "NickHakim",
+      "twitter:audio:source": "https://api-partners.soundcloud.com/twitter/tracks/soundcloud:sounds:161674929/vmap",
+      "twitter:app:url:googleplay": "soundcloud://sounds:161674929",
+      "twitter:app:url:iphone": "soundcloud://sounds:161674929",
+      "twitter:app:url:ipad": "soundcloud://sounds:161674929",
+      "al:ios:app_name": "SoundCloud",
+      "al:ios:app_store_id": "336353151",
+      "al:android:app_name": "SoundCloud",
+      "al:android:package": "com.soundcloud.android",
+      "og:type": "soundcloud:sound",
+      "og:url": "https://soundcloud.com/enhakim/i-dont-know",
+      "og:title": "I Don't Know",
+      "og:image": "https://i1.sndcdn.com/artworks-000087117904-k9j0ht-t500x500.jpg",
+      "og:image:width": "500",
+      "og:image:height": "500",
+      "og:description": "Where Will We Go Pt. 2",
+      "al:web:should_fallback": "false",
+      "al:ios:url": "soundcloud://sounds:161674929",
+      "al:android:url": "soundcloud://sounds:161674929",
+      "soundcloud:user": "https://soundcloud.com/enhakim",
+      "soundcloud:play_count": "504992",
+      "soundcloud:download_count": "0",
+      "soundcloud:comments_count": "207",
+      "soundcloud:like_count": "11196",
+      "application-name": "SoundCloud"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\"I Don't Know\" Is One of the Smartest Things You Can Say",
+   "htmlTitle": "&quot;\u003cb\u003eI Don&#39;t Know\u003c/b\u003e&quot; Is One of the Smartest Things You Can Say",
+   "link": "http://lifehacker.com/5910993/i-dont-know-is-one-of-the-smartest-things-you-can-say",
+   "displayLink": "lifehacker.com",
+   "snippet": "May 17, 2012 ... We like to come off as intelligent, and so we often act like we know more than we \ndo to achieve that effect. In reality, however, saying \"I don't ...",
+   "htmlSnippet": "May 17, 2012 \u003cb\u003e...\u003c/b\u003e We like to come off as intelligent, and so we often act like we \u003cb\u003eknow\u003c/b\u003e more than we \u003cbr\u003e\ndo to achieve that effect. In reality, however, saying &quot;\u003cb\u003eI don&#39;t\u003c/b\u003e&nbsp;...",
+   "cacheId": "UAjZ42WD6LQJ",
+   "formattedUrl": "lifehacker.com/.../i-dont-know-is-one-of-the-smartest-things-you-can-say",
+   "htmlFormattedUrl": "lifehacker.com/.../i-\u003cb\u003edont\u003c/b\u003e-\u003cb\u003eknow\u003c/b\u003e-is-one-of-the-smartest-things-you-can-say",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.kinja-img.com/gawker-media/image/upload/s--c8Y8DsSf--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/17muz6lsfb6qnjpg.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCHnptxFh3W2UNrdGGSHkzU8wKf4L2deuZj0vD8PuDG0xEAHkbcDY-jPE"
+     }
+    ],
+    "metatags": [
+     {
+      "dynamic-stylesheet": "//x.kinja-static.com/assets/stylesheets/editor-a07a39e2a8c7441a35db3309cfd64092.css",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=10.0",
+      "msapplication-square70x70logo": "https://i.kinja-img.com/gawker-media/image/upload/s--N2eqEvT8--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/u0939doeuioaqhspkjyc.png",
+      "msapplication-square150x150logo": "https://i.kinja-img.com/gawker-media/image/upload/s--OqAhAoNZ--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/u0939doeuioaqhspkjyc.png",
+      "news_keywords": "Mind Hacks, Learning, Brain hacks, thinking, Stupid, Lifehacker",
+      "twitter:url": "http://lifehacker.com/5910993/i-dont-know-is-one-of-the-smartest-things-you-can-say",
+      "og:title": "\"I Don't Know\" Is One of the Smartest Things You Can Say",
+      "og:type": "article",
+      "twitter:image": "https://i.kinja-img.com/gawker-media/image/upload/s--c8Y8DsSf--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/17muz6lsfb6qnjpg.jpg",
+      "og:image": "https://i.kinja-img.com/gawker-media/image/upload/s--c8Y8DsSf--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/17muz6lsfb6qnjpg.jpg",
+      "author": "Adam Dachis",
+      "og:url": "http://lifehacker.com/5910993/i-dont-know-is-one-of-the-smartest-things-you-can-say",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@lifehacker",
+      "twitter:title": "\"I Don't Know\" Is One of the Smartest Things You Can Say",
+      "og:description": "When it comes to our brains, black is white and up is down. Any time we try to achieve a desired result, we end up doing the opposite. Such is the case with trying to be smart. We like to come off as intelligent, and so we often act like we know more than we do to achieve that effect. In reality, however, saying &quot;I don't know&quot; can be a whole lot smarter.",
+      "twitter:description": "When it comes to our brains, black is white and up is down. Any time we try to achieve a desired result, we end up doing the opposite. Such is the case with trying to be smart. We like to come off as intelligent, and so we often act like we know more than we do to achieve that effect. In reality, however, saying &quot;I don't know&quot; can be a whole lot smarter.",
+      "og:locale": "en_US",
+      "og:site_name": "Lifehacker",
+      "fb:app_id": "37418175030"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I don't know: In Praise of Admitting Ignorance (Except When You ...",
+   "htmlTitle": "\u003cb\u003eI don&#39;t know\u003c/b\u003e: In Praise of Admitting Ignorance (Except When You \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/dont-know-Admitting-Ignorance-Shouldn%C2%92t/dp/1594632391",
+   "displayLink": "www.amazon.com",
+   "snippet": "A short, concise book in favor of honoring doubt and admitting when the answer \nis: I don't know. In a tight, enlightening narrative, Leah Hager Cohen explores ...",
+   "htmlSnippet": "A short, concise book in favor of honoring doubt and admitting when the answer \u003cbr\u003e\nis: \u003cb\u003eI don&#39;t know\u003c/b\u003e. In a tight, enlightening narrative, Leah Hager Cohen explores&nbsp;...",
+   "cacheId": "r7iYbkK6fVcJ",
+   "formattedUrl": "www.amazon.com/dont-know-Admitting-Ignorance.../1594632391",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003edont\u003c/b\u003e-\u003cb\u003eknow\u003c/b\u003e-Admitting-Ignorance.../1594632391",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41R5f4wNYHL._SX285_BO1,204,203,200_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "170",
+      "height": "296",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKfAkX3iFKAcc_xuBKy5MlSk9XD-I9Xu0Z3oefdmFBcxMa32sUEGIsKeE"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41R5f4wNYHL.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "I don't know: In Praise of Admitting Ignorance (Except When You Shouldn’t): Leah Hager Cohen: 9781594632396: Amazon.com: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I don't know my registered email address",
+   "htmlTitle": "\u003cb\u003eI don&#39;t know\u003c/b\u003e my registered email address",
+   "link": "https://support.skype.com/en/faq/FA34537/i-don-t-know-my-registered-email-address",
+   "displayLink": "support.skype.com",
+   "snippet": "I don't know my registered email address. Your registered email address is the \nemail address that's registered against your Skype account – usually it's the one\n ...",
+   "htmlSnippet": "\u003cb\u003eI don&#39;t know\u003c/b\u003e my registered email address. Your registered email address is the \u003cbr\u003e\nemail address that&#39;s registered against your Skype account – usually it&#39;s the one\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "28e_-p9fiXgJ",
+   "formattedUrl": "https://support.skype.com/.../i-don-t-know-my-registered-email-address",
+   "htmlFormattedUrl": "https://support.skype.com/.../i-\u003cb\u003edon-t\u003c/b\u003e-\u003cb\u003eknow\u003c/b\u003e-my-registered-email-address",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "search.contenttype": "faq",
+      "search.product": "Skype",
+      "search.title": "I don't know my registered email address",
+      "search.platform": "playstation,mac,skype-for-web,skype-for-tv,iphone,ipad,modern-windows,windows-desktop,windows-phone,android,linux",
+      "search.datecreated": "2014-11-18T15:32:56",
+      "search.datemodified": "2015-07-20T14:40:18"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Urban Dictionary: I don't know",
+   "htmlTitle": "Urban Dictionary: \u003cb\u003eI don&#39;t know\u003c/b\u003e",
+   "link": "http://www.urbandictionary.com/define.php?term=I+don't+know",
+   "displayLink": "www.urbandictionary.com",
+   "snippet": "What do you think it means? Whats that? You don't know? OH MY GOD! YOU \nJUST WORKED IT OT!",
+   "htmlSnippet": "What do you think it means? Whats that? You \u003cb\u003edon&#39;t know\u003c/b\u003e? OH MY GOD! YOU \u003cbr\u003e\nJUST WORKED IT OT!",
+   "cacheId": "EjAcSzNwbggJ",
+   "formattedUrl": "www.urbandictionary.com/define.php?term=I+don't+know",
+   "htmlFormattedUrl": "www.urbandictionary.com/define.php?term=I+\u003cb\u003edon&#39;t\u003c/b\u003e+\u003cb\u003eknow\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.urbandictionary.com/render_definition.php?defid=1159915"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "226",
+      "height": "223",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSMuPPV6j1feWpfJ0H0aq7lpwlIFhMwAnUDzXdfTvZycyU623T97HZx3o"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable = no",
+      "apple-mobile-web-app-title": "UrbanDict",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "What do you think it means? Whats that? You don't know? OH MY GOD! YOU JUST WORKED IT OT!",
+      "twitter:title": "I don't know",
+      "og:title": "I don't know",
+      "twitter:site": "@urbandictionary",
+      "og:site_name": "Urban Dictionary",
+      "twitter:card": "summary_large_image",
+      "og:image": "http://www.urbandictionary.com/render_definition.php?defid=1159915",
+      "twitter:image:src": "http://www.urbandictionary.com/render_definition.php?defid=1159915"
+     }
+    ]
+   }
+  }
+ ]
+}

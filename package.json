@@ -1,0 +1,19 @@
+{
+  "name": "google-search",
+  "main": "./lib/google-search",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "google-search:toggle"
+  },
+  "repository": "https://github.com/atom/google-search",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "request":"2.x"
+  }
+}
